@@ -957,7 +957,7 @@ a {
   }
 }
 .cid-tuxNuOvUkB P {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-tuxNuOvUkB H5 {
   text-align: right;
@@ -975,6 +975,22 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tuxBd8ihNC .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tUc5aRw17m {
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tUc5aRw17m .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tUc5aRw17m img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tUc5aRw17m .text-wrapper {
     padding: 2rem;
   }
 }
