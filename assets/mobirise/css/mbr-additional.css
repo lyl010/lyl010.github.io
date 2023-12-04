@@ -792,24 +792,6 @@ a {
   font-size: 2rem;
   width: 1.6rem;
 }
-.cid-t8FV9rfm8u {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-t8FV9rfm8u .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-t8FV9rfm8u img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-t8FV9rfm8u .text-wrapper {
-    padding: 2rem;
-  }
-}
 .cid-t8GYd4qgl1 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -831,6 +813,24 @@ a {
 .cid-t8GYd4qgl1 .mbr-text {
   color: #000000;
   text-align: left;
+}
+.cid-t8FV9rfm8u {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t8FV9rfm8u .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t8FV9rfm8u img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-t8FV9rfm8u .text-wrapper {
+    padding: 2rem;
+  }
 }
 .cid-t7T5ZBcPwJ {
   background-image: url("../../../assets/images/figure-ed2-2000x1000.png");
